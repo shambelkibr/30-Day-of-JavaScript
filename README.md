@@ -32,6 +32,7 @@ Folder: `Basic`
   * Null
   * Object
   * Symbol
+  * BigInt
 
 * Type Conversion
 
@@ -83,6 +84,8 @@ Folder: `condition`
 * Parameters & return values
 * Default parameters
 * Callback functions
+* Higher-order functions
+* Closures
 
 Folder: `functions`
 
@@ -101,6 +104,9 @@ Folder: `functions`
   * map()
   * filter()
   * reduce()
+  * find()
+  * some()
+  * every()
 
 * Array iteration
 
@@ -111,14 +117,21 @@ Folder: `functions`
 ## 8️⃣ Objects
 
 * Creating objects
+
 * Object properties & methods
+
 * Accessing object values
+
 * this keyword
+
 * Object methods
 
   * Object.keys()
   * Object.values()
   * Object.entries()
+  * Object.assign()
+
+* Object cloning (shallow & deep copy)
 
 ---
 
@@ -132,12 +145,15 @@ Folder: `DOM`
 
   * getElementById()
   * querySelector()
+  * querySelectorAll()
 
 * Changing content
 
 * Changing styles
 
 * Creating & removing elements
+
+* Traversing DOM
 
 ---
 
@@ -150,6 +166,7 @@ Folder: `events`
 * addEventListener()
 * Event object
 * Event bubbling & capturing
+* Event delegation
 
 ---
 
@@ -169,6 +186,8 @@ Folder: `events`
 * Destructuring
 * Spread & Rest operators
 * Modules (import/export)
+* Optional chaining (?.)
+* Nullish coalescing (??)
 
 ---
 
@@ -177,11 +196,25 @@ Folder: `events`
 Folder: `async`
 
 * setTimeout()
+
 * setInterval()
+
 * Callbacks
+
 * Promises
+
+  * Creating promises
+  * .then()
+  * .catch()
+  * .finally()
+
 * async / await
+
 * Fetch API
+
+* Promise.all()
+
+* Promise.race()
 
 ---
 
@@ -193,19 +226,34 @@ Folder: `error`
 * catch
 * finally
 * throw
+* Custom errors
 * Common errors
 
 ---
 
-## 1️⃣5️⃣ Local Storage
+## 1️⃣5️⃣ Storage & Browser APIs
 
 * localStorage
 * sessionStorage
-* Storing & retrieving data
+* Cookies (basic)
+* JSON (parse & stringify)
 
 ---
 
-## 1️⃣6️⃣ Mini Projects & Practice
+## 1️⃣6️⃣ Advanced Concepts
+
+Folder: `advanced`
+
+* Scope & Hoisting
+* Execution Context
+* Event Loop
+* Call Stack
+* Memory management
+* Prototype & Prototypal inheritance
+
+---
+
+## 1️⃣7️⃣ Mini Projects & Practice
 
 Folder: `projects`
 
@@ -213,6 +261,7 @@ Folder: `projects`
 * Calculator
 * Form Validation Project
 * API Fetch Project
+* Weather App (API)
 
 ---
 

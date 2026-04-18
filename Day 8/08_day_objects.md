@@ -1,21 +1,8 @@
-<div align="center">
+
   <h1> 30 Days Of JavaScript: Objects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
-  </sub>
-</div>
+09_Day_Higher_order_functions/09_day_higher_order_functions.md)
 
-[<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_8.png)
 
 - [📔 Day 8](#-day-8)
 	- [Scope](#scope)
@@ -591,5 +578,3 @@ console.log(copyPerson.hasOwnProperty('score'))
 
 
 🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)

@@ -1,6 +1,6 @@
   <h1> 30 Days Of JavaScript: Functions</h1>
 
-[<< Day 6](../06_Day_Loops/06_day_loops.md.md) | [Day 8 >>](..//80_Day_OOP/08_day_objects.md)
+[<< Day 6](../06_Day_Loops/06_day_loops.md.md) | [Day 8 >>](..//08_Day_OOP/08_day_objects.md)
 
 - [📔 Day 7](#-day-7)
   - [Functions](#functions)

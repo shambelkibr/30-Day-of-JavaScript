@@ -84,22 +84,4 @@ Practice variables and data types
 
 ---
 
-## ⚠️ Important (real-world advice)
-Don’t just rename blindly.
 
-You are modifying someone’s open-source work. So:
-- Keep **credit** (recommended in real projects)
-- Or clearly state **“adapted version”**
-
----
-
-## Next step (your level)
-Tell me:
-
-👉 Do you want to:
-1. :contentReference[oaicite:0]{index=0}
-2. :contentReference[oaicite:1]{index=1}
-3. :contentReference[oaicite:2]{index=2}
-
-I’ll guide you like production-level engineering.
-```

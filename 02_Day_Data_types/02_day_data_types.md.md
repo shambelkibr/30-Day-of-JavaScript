@@ -1,4 +1,3 @@
-Here is the modified README file with "Asabeneh" replaced by "Shanbel Kibre" and all other relevant references updated.
 
 [<< Day 1](../Day%20%201/README.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
 

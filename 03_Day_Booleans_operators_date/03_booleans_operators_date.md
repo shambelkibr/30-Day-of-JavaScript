@@ -1,4 +1,3 @@
-Here is the modified README file with "Asabeneh" replaced by "Shanbel Kibre" and all other relevant references updated.
 
 <div align="center">
   <h1> 30 Days Of JavaScript: Booleans, Operators, Date</h1>

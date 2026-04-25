@@ -1,4 +1,3 @@
-Here is the modified README file with "Asabeneh" replaced by "Shanbel Kibre" and all other relevant references updated.
 
 [<< Day 10](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md) | [Day 12 >>](..//Day%2012/12_day_regular_expressions.md)
 

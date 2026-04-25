@@ -1,4 +1,3 @@
-Here is the modified README file with "Asabeneh" replaced by "Shanbel Kibre" and all other relevant references updated.
 
 
   <h1> 30 Days Of JavaScript: Conditionals</h1>

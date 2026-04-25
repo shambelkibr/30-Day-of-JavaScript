@@ -1,5 +1,4 @@
 
-<div align="center">
   <h1> 30 Days Of JavaScript: Booleans, Operators, Date</h1>
 
 </div>
